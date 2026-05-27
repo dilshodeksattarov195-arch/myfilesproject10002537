@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercalidate",
+        "uuid": 2864273,
+        "checksum": "bcxkmp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
